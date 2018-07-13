@@ -4,7 +4,7 @@
 
 WARNING: this is a WiP meaning it's not yet functional! There's lots of work to do, yet...
 
-This is a port of OpenWrt's LuCI interface created to provide a basic administration interface for embedded systems running FreeBSD. The project has been renamed to "LuCI-BSD - FreeBSD Embedded Configuration Interface" to provide a clear distinction from the parent project. There are plenty of differences between OpenWrt and FreeBSD, therefore any added or modified code in this project is strictly FreeBSD-specific and should not be merged back to the parent project at any point of time.
+This is a port of OpenWrt's LuCI interface created to provide a basic administration interface for embedded systems running FreeBSD. The project has been renamed to "LuCI-BSD - FreeBSD Embedded Configuration Interface" to provide a clear distinction from the parent project. There are plenty of differences between OpenWrt and FreeBSD, therefore any added or modified code in this project is FreeBSD-specific and should not be merged back to the parent project at any point of time.
 
 The project aims to provide a basic administration interface to configure FreeBSD built for embedded systems. Initial features include the most basic areas of configuration with a possibility to extend capabilities using modules.
 
