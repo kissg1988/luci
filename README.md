@@ -12,6 +12,7 @@ Supported features are:
 
 * System: hostname, timezone and NTP configuration
 * Administration: change password for root, configure remote access settings (dropbear)
+* Startup: manage system services
 * Scheduled tasks: configure cronjobs
 * Reboot: reboot the system
 * Interface: configure network interfaces (VLANs, ethernet interfaces, bridges)
